@@ -75,3 +75,7 @@ nav a:hover::before {
     width: 100%;
 }
 
+img {
+    max-width: 200px; 
+    height: auto; 
+  }
